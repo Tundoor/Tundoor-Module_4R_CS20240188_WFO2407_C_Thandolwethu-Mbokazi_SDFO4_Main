@@ -22,11 +22,13 @@ body {
   }
   
   .pastry {
+    align-items: center;
     color: #533117;
     padding: 20px;
     border-radius: 50%;
     font-size: 18px;
     position: absolute; 
+    margin-right: 20%;
   }
   
   .pastry img {
@@ -48,13 +50,13 @@ body {
   
   .pastry3 { /* Cupcake */
     top: 30px;
-    right: 35%;
+    left: 55%;
     background-color: #f0a8be; 
   }
   
   .pastry4 { /* Jelly Roll */
     top: 30px;
-    right: 15%;
+    left: 75%;
     background-color: #7fa8f0; 
   }
   
