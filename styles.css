@@ -41,8 +41,8 @@ body {
   }
   
   .pastry2 { /* Brownie */
-    top: 0;
-    right: 0;
+    top: 30px;
+    left:   35%;
     background-color: #7f553f; 
   }
   
