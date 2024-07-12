@@ -35,8 +35,9 @@ body {
   }
   
   .pastry1 { /* Cookie */
-    top: 0;
-    left: 0;
+    top: 30px;
+    left: 15%;
+    margin-right: 10%;
     background-color: #f0bb7f; 
   }
   
