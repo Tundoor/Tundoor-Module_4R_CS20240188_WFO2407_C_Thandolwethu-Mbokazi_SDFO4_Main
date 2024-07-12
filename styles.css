@@ -47,8 +47,8 @@ body {
   }
   
   .pastry3 { /* Cupcake */
-    bottom: 50px;
-    left: 0;
+    top: 30px;
+    right: 35%;
     background-color: #f0a8be; 
   }
   
