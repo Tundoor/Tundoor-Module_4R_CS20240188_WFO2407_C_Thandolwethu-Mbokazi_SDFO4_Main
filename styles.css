@@ -37,7 +37,6 @@ body {
   .pastry1 { /* Cookie */
     top: 30px;
     left: 15%;
-    margin-right: 10%;
     background-color: #f0bb7f; 
   }
   
@@ -48,14 +47,14 @@ body {
   }
   
   .pastry3 { /* Cupcake */
-    bottom: 0;
+    bottom: 50px;
     left: 0;
     background-color: #f0a8be; 
   }
   
   .pastry4 { /* Jelly Roll */
-    bottom: 0;
-    right: 0;
+    top: 30px;
+    right: 15%;
     background-color: #7fa8f0; 
   }
   
